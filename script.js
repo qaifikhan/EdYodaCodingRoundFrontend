@@ -1,6 +1,6 @@
 // You have 30 minutes to complete these questions
 // Please do not change the function names
-// Submit the answer as Github URL or Codepen URL
+// Submit the answer as Github URL or Codepen URL at following URL -> https://forms.gle/w6HtcHD1kkbKZ7Cz8
 
 // Question 1: 
 // You have an unsorted array of non-negative integers and a number s.
